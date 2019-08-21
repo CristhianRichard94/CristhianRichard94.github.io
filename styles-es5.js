@@ -29,7 +29,7 @@ module.exports = [[module.i, "/*!\n * Font Awesome Free 5.10.1 by @fontawesome -
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = [[module.i, "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXNzZXRzL3N0eWxlcy9zdHlsZXMuc2NzcyJ9 */", '', '']]
+module.exports = [[module.i, "a {\n  text-decoration: none;\n  color: #E1F1FF;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2NyaXN0aGlhbi9Eb2N1bWVudG9zL2N2LWFuZ3VsYXIvc3JjL2Fzc2V0cy9zdHlsZXMvc3R5bGVzLnNjc3MiLCIvaG9tZS9jcmlzdGhpYW4vRG9jdW1lbnRvcy9jdi1hbmd1bGFyL3NyYy9hc3NldHMvc3R5bGVzL2dsb2JhbC9fY29sb3JzLnNjc3MiLCJzcmMvYXNzZXRzL3N0eWxlcy9zdHlsZXMuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFHQTtFQUNJLHFCQUFBO0VBQ0EsY0NEZTtBQ0RuQiIsImZpbGUiOiJzcmMvYXNzZXRzL3N0eWxlcy9zdHlsZXMuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIkBpbXBvcnQgJy4vZ2xvYmFsL2NvbG9ycyc7XG5cblxuYSB7XG4gICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xuICAgIGNvbG9yOiAkdGV4dC1saWdodC1jb2xvcjtcbn0iLCIkcHJpbWFyeS1jb2xvcjogIzAwNUU4ODtcbiRzZWNvbmRhcnktY29sb3I6ICMwMEI2OTM7XG4kYWNjZW50LWNvbG9yOiAjRjlGODcxO1xuJHRleHQtZGFyay1jb2xvcjogIzM0MzQzNDtcbiR0ZXh0LWxpZ2h0LWNvbG9yOiAjRTFGMUZGO1xuJGJhY2tncm91bmQtZGFyay1jb2xvcjogIzA0MzM1RTtcbiRiYWNrZ3JvdW5kLWxpZ2h0LWNvbG9yOiB3aGl0ZXNtb2tlO1xuIiwiYSB7XG4gIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcbiAgY29sb3I6ICNFMUYxRkY7XG59Il19 */", '', '']]
 
 /***/ }),
 

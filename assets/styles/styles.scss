@@ -1,1 +1,7 @@
-@import './global/colors'
+@import './global/colors';
+
+
+a {
+    text-decoration: none;
+    color: $text-light-color;
+}
