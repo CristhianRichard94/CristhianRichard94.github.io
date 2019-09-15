@@ -7,7 +7,7 @@
         "projects": "Projects"
     },
     "Home": {
-        "title": "Hi there",
+        "title": "Hi there!",
         "line1": "I'm a System information engineer, graduated from National Technologic University, Regional Concepción del Uruguay.",
         "line2": "My Main skills are:",
         "skills": {
@@ -21,12 +21,15 @@
     "Education": {
         "line1": "Electrician technician with industrial electronics orientation",
         "line2": "EET N°2 “Francisco Ramirez”",
-        "line3": "Term: 2007 - 2013",
+        "line3": "12/2013",
         "line4": "System Universitary Analyst",
-        "line5": "Granted: 20/09/2018",
+        "line5": "20/09/2018",
         "line6": "Information System Engineering",
-        "line7": "Granted: 06/06/2019",
+        "line7": "06/06/2019",
         "line8": "National Technologic University Concepcion del Uruguay",
+        "secondary": "High School",
+        "halfGrade": "Intermediate Degree",
+        "universitary": "College Degree",
         "line9": "Languages",
         "line10": "English Level B1 (understanding, oral, writing)",
         "line11": "Deutsch Level A1 (understanding, oral, writing)"
@@ -37,11 +40,17 @@
         "line3" : "Research Group",
         "line4" : "Scholar",
         "line5" : "Perform as scholar on the Databases Research Group - FRCU UTN",
-        "line6" : "Term: Since 2018"
+        "line6" : "Term: Since 2018",
+        "line7" : "Data Analysis",
+        "line8" : "Project 'Agregando valor'",
+        "line9" : "Data analysis about organizations and return of the obtained results.",
+        "line10" : "Assistant Professor Ad Honorem",
+        "line11" : "Subject 'Data management'",
+        "line12" : "Term: 04/2019 - 06/2019"
     },
     "PersonalInfo" : {
         "title" : "About me",
-        "line1" : "Nationality: Argentina",
+        "line1" : "Nationality:",
         "line2" : "Age: ",
         "line3" : "Degree: ",
         "hobbies" : "Hobbies: ",
@@ -66,8 +75,14 @@
             "en": "English",
             "es": "Spanish"
         },
+        "viewCode": "Checkout the code",
         "Files": {
             "cv": "CVRichard2019-en.pdf"
         }
+    },
+    "Tooltips": {
+        "lang": "Languages",
+        "linkedin": "Follow me on Linkedin",
+        "github": "Checkout my repo"
     }
 }
