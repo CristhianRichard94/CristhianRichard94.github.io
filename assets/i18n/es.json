@@ -30,32 +30,34 @@
         "secondary": "Secundario",
         "halfGrade": "Intermedio",
         "universitary": "Universitario",
-        "line9": "Idiomas",
-        "line10": "Nivel de inglés B1 (comprensión, oral, escritura).",
-        "line11": "Nivel de Alemán A1 (comprensión oral, escritura)."
+        "line9": "Idiomas",        
+        "english": "Inglés",
+        "line10": "Nivel B1 (comprensión, oral, escritura).",
+        "deutsch": "Alemán",
+        "line11": "Nivel A1 (comprensión oral, escritura)."
     },
     "Experience": {
-        "line1" : "Desarrollador Frontend",
-        "line2" : "Período: 06/2019 - actualidad",
-        "line3" : "Grupo de investigación",
-        "line4" : "Becario",
-        "line5" : "Desarrollo como becario dentro del grupo de investigación de base de datos de la FRCU-UTN.",
-        "line6" : "2018 - Actualidad",
-        "line7" : "Análisis de datos",
-        "line8" : "Proyecto 'Agregando valor'",
-        "line9" : "Análisis de datos de empresas y devolución de resultados obtenidos.",
-        "line10" : "Ayudante de cátedra Ad Honorem",
-        "line11" : "Asignatura 'Gestión de datos'",
-        "line12" : "Período: 04/2019 - 06/2019",
-        "line13" : "Período: 02/2019 - 04/2019"
+        "line1": "Desarrollador Frontend",
+        "line2": "Período: 06/2019 - actualidad",
+        "line3": "Grupo de investigación",
+        "line4": "Becario",
+        "line5": "Desarrollo como becario dentro del grupo de investigación de base de datos de la FRCU-UTN.",
+        "line6": "2018 - Actualidad",
+        "line7": "Análisis de datos",
+        "line8": "Proyecto 'Agregando valor'",
+        "line9": "Análisis de datos de empresas y devolución de resultados obtenidos.",
+        "line10": "Ayudante de cátedra Ad Honorem",
+        "line11": "Asignatura 'Gestión de datos'",
+        "line12": "Período: 04/2019 - 06/2019",
+        "line13": "Período: 02/2019 - 04/2019"
     },
-    "PersonalInfo" : {
-        "title" : "Sobre mí",
-        "line1" : "Nacionalidad: ",
-        "line2" : "Edad: ",
-        "line3" : "Título: ",
-        "hobbies" : "Pasatiempos: ",
-        "skills" : "Herramientas y lenguajes de programación"
+    "PersonalInfo": {
+        "title": "Sobre mí",
+        "line1": "Nacionalidad: ",
+        "line2": "Edad: ",
+        "line3": "Título: ",
+        "hobbies": "Pasatiempos: ",
+        "skills": "Herramientas y lenguajes de programación"
     },
     "Projects": {
         "title": "Mis proyectos",
@@ -79,7 +81,8 @@
         "viewCode": "Mira el código",
         "Files": {
             "cv": "CVRichard2019-es.pdf"
-        }
+        },
+        "loading": "Cargando"
     },
     "Tooltips": {
         "lang": "Idiomas",

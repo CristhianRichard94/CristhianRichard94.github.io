@@ -31,8 +31,10 @@
         "halfGrade": "Intermediate Degree",
         "universitary": "College Degree",
         "line9": "Languages",
-        "line10": "English Level B1 (understanding, oral, writing)",
-        "line11": "Deutsch Level A1 (understanding, oral, writing)"
+        "english": "English",
+        "line10": "Level B1 (understanding, oral, writing)",
+        "deutsch": "Deutsch",
+        "line11": "Level A1 (understanding, oral, writing)"
     },
     "Experience": {
         "line1" : "Frontend Developer",
@@ -78,7 +80,8 @@
         "viewCode": "Checkout the code",
         "Files": {
             "cv": "CVRichard2019-en.pdf"
-        }
+        },
+        "loading": "Loading"
     },
     "Tooltips": {
         "lang": "Languages",
